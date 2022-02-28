@@ -28,4 +28,6 @@ Code and materials for paper "Contrastive machine learning reveals the structure
     * ...
 
 
-_N.B the trained weights are zipped into a multi-part zip file (.z01,.z02,.z03 etc.) and need to be unzipped before use._
+_N.B. the trained weights are zipped into a multi-part zip file (.z01,.z02,.z03 etc.) and need to be unzipped before use._
+
+_N.B. SFARI data has been removed to comply with Researcher Distribution Agreement (eRDA). SFARI Award #614379 to Joshua Hartshorne and Stefano Anzelotti. Data can be obtained by authorized researchers from base.sfari.org_
