@@ -4,7 +4,7 @@ Code and materials for paper "Contrastive machine learning reveals the structure
 
 
 * [Notebooks/](Notebooks/)
-  * [01-Train-AutoEncoders.ipynb](Notebooks/01-Train-AutoEncoders.ipynb) Trains VAE and CVAE autoencoders. For more info see original implementation here [Abid & Zou, 2019](https://arxiv.org/abs/1902.04601)
+  * [01-Train-AutoEncoders.ipynb](Notebooks/01-Train-AutoEncoders.ipynb) Trains VAE and CVAE autoencoders. For more info see [Abid & Zou, 2019](https://arxiv.org/abs/1902.04601)
   * [02-Extract-Latent-Features.ipynb](Notebooks/02-Extract-Latent-Features.ipynb) Extracts latent features (shared, ASD-specific & VAE) using trained autoencoder models
   * [03-Analysis-RSA.ipynb](Notebooks/03-Analysis-RSA.ipynb) RSA analyses (Figure 1B/1C)
   * [04-Analysis-Clustering-Results.ipynb](Notebooks/04-Analysis-Clustering-Results.ipynb) Clustering analyses (Figure 1D)
